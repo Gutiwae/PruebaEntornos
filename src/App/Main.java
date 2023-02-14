@@ -1,7 +1,7 @@
 package App;
 
 import java.util.stream.DoubleStream;
-
+@Author Guti
 public class Main {
 
 static double add(double... operands) {
